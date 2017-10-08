@@ -1,0 +1,365 @@
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.exe
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.xml
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.pdb
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.exe
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.pdb
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.xml
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Microsoft.SqlServer.Replication.dll
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Microsoft.SqlServer.BatchParser.dll
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/ResolveAssemblyReference.cache
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Form1.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAgg.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAlterTable.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmConnect.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateTable.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateUser.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateView.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropTable.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropUser.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropView.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrant.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrantS.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmJoins.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeAccess.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeMySQL.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeOracle.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeSQL.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRename.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevoke.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevokeS.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSelection.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSplash.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSub.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchAccess.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMain.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMySQL.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchOracle.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchSQL.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Resources.resources
+E:/Nikul/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.GenerateResource.Cache
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.exe
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.xml
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.pdb
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/ResolveAssemblyReference.cache
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Form1.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAgg.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAlterTable.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmConnect.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateTable.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateUser.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateView.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropTable.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropUser.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropView.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrant.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrantS.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmJoins.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeAccess.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeMySQL.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeOracle.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeSQL.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRename.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevoke.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevokeS.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSelection.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSplash.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSub.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchAccess.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMain.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMySQL.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchOracle.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchSQL.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Resources.resources
+F:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.GenerateResource.Cache
+F:/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.exe
+F:/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.pdb
+F:/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.xml
+F:/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Microsoft.SqlServer.Replication.dll
+F:/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Microsoft.SqlServer.BatchParser.dll
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.exe
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.xml
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.pdb
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/ResolveAssemblyReference.cache
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Form1.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAgg.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAlterTable.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmConnect.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateTable.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateUser.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateView.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropTable.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropUser.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropView.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrant.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrantS.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmJoins.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeAccess.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeMySQL.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeOracle.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeSQL.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRename.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevoke.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevokeS.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSelection.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSplash.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSub.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchAccess.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMain.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMySQL.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchOracle.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchSQL.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Resources.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/GenerateResource-ResGen.read.1.tlog
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/GenerateResource-ResGen.write.1.tlog
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbprojResolveAssemblyReference.cache
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.GenerateResource.Cache
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mForm1.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAgg.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAlterTable.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmConnect.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateTable.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateView.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropTable.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropView.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmJoins.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSplash.resources
+E:/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSub.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.exe
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.xml
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.pdb
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbprojResolveAssemblyReference.cache
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Form1.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAgg.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAlterTable.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmConnect.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateTable.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateUser.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateView.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropTable.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropUser.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropView.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrant.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrantS.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmJoins.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeAccess.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeMySQL.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeOracle.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeSQL.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRename.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevoke.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevokeS.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSelection.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSplash.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSub.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchAccess.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMain.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMySQL.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchOracle.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchSQL.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mForm1.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAgg.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAlterTable.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmConnect.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateTable.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateView.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropTable.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropView.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmJoins.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSplash.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSub.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Resources.resources
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.GenerateResource.Cache
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.exe
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.pdb
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.xml
+I:/bhags/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Microsoft.SqlServer.Replication.dll
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.exe
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.xml
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.pdb
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.exe
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Microsoft.SqlServer.Replication.dll
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbprojResolveAssemblyReference.cache
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Form1.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAgg.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAlterTable.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmConnect.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateTable.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateUser.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateView.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropTable.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropUser.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropView.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrant.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrantS.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmJoins.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeAccess.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeMySQL.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeOracle.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeSQL.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRename.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevoke.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevokeS.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSelection.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSplash.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSub.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchAccess.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMain.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMySQL.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchOracle.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchSQL.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mForm1.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAgg.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAlterTable.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmConnect.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateTable.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateView.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropTable.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropView.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmJoins.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSplash.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSub.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Resources.resources
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.GenerateResource.Cache
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.pdb
+C:/Users/Tanu/Desktop/bhags/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.xml
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.exe
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.xml
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.pdb
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.exe
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.pdb
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.xml
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbprojResolveAssemblyReference.cache
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Form1.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAgg.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAlterTable.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmConnect.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateTable.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateUser.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateView.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropTable.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropUser.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropView.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrant.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrantS.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmJoins.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeAccess.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeMySQL.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeOracle.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeSQL.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRename.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevoke.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevokeS.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSelection.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSplash.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSub.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchAccess.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMain.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMySQL.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchOracle.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchSQL.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mForm1.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAgg.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAlterTable.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmConnect.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateTable.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateView.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropTable.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropView.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmJoins.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSplash.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSub.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Resources.resources
+C:/Users/Tanu/Desktop/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.GenerateResource.Cache
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.exe
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.xml
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.pdb
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.exe
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.pdb
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/bin/Debug/Project.xml
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbprojResolveAssemblyReference.cache
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Form1.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAgg.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAlterTable.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmConnect.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateTable.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateUser.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateView.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropTable.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropUser.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropView.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrant.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrantS.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmJoins.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeAccess.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeMySQL.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeOracle.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeSQL.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRename.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevoke.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevokeS.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSelection.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSplash.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSub.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchAccess.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMain.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMySQL.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchOracle.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchSQL.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mForm1.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAgg.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAlterTable.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmConnect.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateTable.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateView.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropTable.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropView.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmJoins.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSplash.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSub.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Resources.resources
+C:/Users/Tanu/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.GenerateResource.Cache
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbprojResolveAssemblyReference.cache
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Form1.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAgg.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmAlterTable.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmConnect.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateTable.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateUser.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmCreateView.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropTable.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropUser.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmDropView.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrant.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmGrantS.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmJoins.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeAccess.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeMySQL.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeOracle.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmMakeSQL.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRename.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevoke.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmRevokeS.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSelection.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSplash.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSub.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchAccess.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMain.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchMySQL.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchOracle.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.frmSwitchSQL.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mForm1.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAgg.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmAlterTable.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmConnect.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateTable.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmCreateView.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropTable.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmDropView.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmJoins.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSplash.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.mfrmSub.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.Resources.resources
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.GenerateResource.Cache
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.vbproj.CoreCompileInputs.cache
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.exe
+/Users/tanviraut/Desktop/courses, projects/final year project/Final GUI and SWITCH/PROJECT/Project/obj/Debug/Project.xml

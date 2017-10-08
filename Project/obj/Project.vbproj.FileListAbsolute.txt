@@ -1,0 +1,122 @@
+D:\supriya\Project\Project\bin\Debug\Project.exe
+D:\supriya\Project\Project\bin\Debug\Project.pdb
+D:\supriya\Project\Project\bin\Debug\Project.xml
+D:\supriya\Project\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\supriya\Project\Project\obj\Debug\Project.Form1.resources
+D:\supriya\Project\Project\obj\Debug\Project.frmCreateTable.resources
+D:\supriya\Project\Project\obj\Debug\Project.Resources.resources
+D:\supriya\Project\Project\obj\Debug\Project.vbproj.GenerateResource.Cache
+D:\supriya\Project\Project\obj\Debug\Project.exe
+D:\supriya\Project\Project\obj\Debug\Project.xml
+D:\supriya\Project\Project\obj\Debug\Project.pdb
+D:\supriya\Project\Project\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\supriya\Project\Project\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\supriya\Project\Project\obj\Debug\Project.frmAlterTable.resources
+D:\supriya\Project\Project\obj\Debug\Project.frmAlterView.resources
+D:\supriya\Project\Project\obj\Debug\Project.frmConnect.resources
+D:\supriya\Project\Project\obj\Debug\Project.frmCreateView.resources
+D:\supriya\Project\Project\obj\Debug\Project.frmDeleteDatabase.resources
+D:\supriya\Project\Project\obj\Debug\Project.frmDropTable.resources
+D:\supriya\Project\Project\obj\Debug\Project.frmDropView.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.exe
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.xml
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.pdb
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\bin\Debug\Project.exe
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\bin\Debug\Project.pdb
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\bin\Debug\Project.xml
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.Form1.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmAlterTable.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmConnect.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmCreateTable.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmCreateUser.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmCreateView.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmDropTable.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmDropUser.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmDropView.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmGrant.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmGrantS.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmRevoke.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmRevokeS.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.frmSplash.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.Resources.resources
+D:\Nikul\Ora GUI DOTNET\PROJECT\Project\obj\Debug\Project.vbproj.GenerateResource.Cache
+D:\Nikul\GUI and SWITCH\PROJECT\Project\bin\Debug\Project.exe
+D:\Nikul\GUI and SWITCH\PROJECT\Project\bin\Debug\Project.pdb
+D:\Nikul\GUI and SWITCH\PROJECT\Project\bin\Debug\Project.xml
+D:\Nikul\GUI and SWITCH\PROJECT\Project\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Nikul\GUI and SWITCH\PROJECT\Project\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.Form1.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmAlterTable.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmConnect.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmCreateTable.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmCreateUser.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmCreateView.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmDropTable.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmDropUser.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmDropView.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmGrant.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmGrantS.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmMakeMySQL.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmMakeOracle.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmMakeSQL.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmRename.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmRevoke.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmRevokeS.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSelection.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSplash.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchAccess.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchMain.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchMySQL.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchOracle.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchSQL.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.Resources.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.vbproj.GenerateResource.Cache
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.exe
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.xml
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.pdb
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmAgg.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmJoins.resources
+D:\Nikul\GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSub.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\bin\Debug\Project.exe
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\bin\Debug\Project.pdb
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\bin\Debug\Project.xml
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.Form1.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmAgg.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmAlterTable.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmConnect.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmCreateTable.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmCreateUser.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmCreateView.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmDropTable.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmDropUser.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmDropView.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmGrant.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmGrantS.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmJoins.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmMakeAccess.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmMakeMySQL.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmMakeOracle.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmMakeSQL.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmRename.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmRevoke.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmRevokeS.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSelection.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSplash.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSub.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchAccess.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchMain.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchMySQL.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchOracle.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.frmSwitchSQL.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.Resources.resources
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.vbproj.GenerateResource.Cache
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.exe
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.xml
+D:\Nikul\Final GUI and SWITCH\PROJECT\Project\obj\Debug\Project.pdb

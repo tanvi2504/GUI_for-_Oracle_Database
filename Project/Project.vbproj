@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{074B2EC9-9031-4A9C-89E6-060A809A3D8B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Project.My.MyApplication</StartupObject>
+    <RootNamespace>Project</RootNamespace>
+    <AssemblyName>Project</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.SpeechLib, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SmoEnum, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=5.0.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgg.Designer.vb">
+      <DependentUpon>frmAgg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterTable.Designer.vb">
+      <DependentUpon>frmAlterTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConnect.Designer.vb">
+      <DependentUpon>frmConnect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConnect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateTable.Designer.vb">
+      <DependentUpon>frmCreateTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateUser.Designer.vb">
+      <DependentUpon>frmCreateUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateView.Designer.vb">
+      <DependentUpon>frmCreateView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDropTable.Designer.vb">
+      <DependentUpon>frmDropTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDropTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDropUser.Designer.vb">
+      <DependentUpon>frmDropUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDropUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDropView.Designer.vb">
+      <DependentUpon>frmDropView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDropView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrant.Designer.vb">
+      <DependentUpon>frmGrant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrantS.Designer.vb">
+      <DependentUpon>frmGrantS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrantS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJoins.Designer.vb">
+      <DependentUpon>frmJoins.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJoins.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMakeAccess.Designer.vb">
+      <DependentUpon>frmMakeAccess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMakeAccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMakeMySQL.Designer.vb">
+      <DependentUpon>frmMakeMySQL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMakeMySQL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMakeOracle.Designer.vb">
+      <DependentUpon>frmMakeOracle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMakeOracle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMakeSQL.Designer.vb">
+      <DependentUpon>frmMakeSQL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMakeSQL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRename.Designer.vb">
+      <DependentUpon>frmRename.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRename.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRevoke.designer.vb">
+      <DependentUpon>frmRevoke.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRevoke.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRevokeS.Designer.vb">
+      <DependentUpon>frmRevokeS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRevokeS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelection.Designer.vb">
+      <DependentUpon>frmSelection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.vb">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSub.Designer.vb">
+      <DependentUpon>frmSub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSub.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwitchAccess.Designer.vb">
+      <DependentUpon>frmSwitchAccess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwitchAccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwitchMain.Designer.vb">
+      <DependentUpon>frmSwitchMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwitchMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwitchMySQL.Designer.vb">
+      <DependentUpon>frmSwitchMySQL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwitchMySQL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwitchOracle.designer.vb">
+      <DependentUpon>frmSwitchOracle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwitchOracle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSwitchSQL.designer.vb">
+      <DependentUpon>frmSwitchSQL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSwitchSQL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mForm1.designer.vb">
+      <DependentUpon>mForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmAgg.designer.vb">
+      <DependentUpon>mfrmAgg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmAgg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmAlterTable.designer.vb">
+      <DependentUpon>mfrmAlterTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmAlterTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmConnect.designer.vb">
+      <DependentUpon>mfrmConnect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmConnect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmCreateTable.designer.vb">
+      <DependentUpon>mfrmCreateTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmCreateTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmCreateView.designer.vb">
+      <DependentUpon>mfrmCreateView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmCreateView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmDropTable.designer.vb">
+      <DependentUpon>mfrmDropTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmDropTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmDropView.designer.vb">
+      <DependentUpon>mfrmDropView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmDropView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmJoins.designer.vb">
+      <DependentUpon>mfrmJoins.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmJoins.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmSplash.designer.vb">
+      <DependentUpon>mfrmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mfrmSub.designer.vb">
+      <DependentUpon>mfrmSub.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mfrmSub.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mModule1.vb" />
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgg.resx">
+      <DependentUpon>frmAgg.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAlterTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConnect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmConnect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCreateTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateUser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCreateUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCreateView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDropTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDropTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDropUser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDropUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDropView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDropView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrant.resx">
+      <DependentUpon>frmGrant.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrantS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGrantS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJoins.resx">
+      <DependentUpon>frmJoins.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMakeAccess.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMakeAccess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMakeMySQL.resx">
+      <DependentUpon>frmMakeMySQL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMakeOracle.resx">
+      <DependentUpon>frmMakeOracle.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMakeSQL.resx">
+      <DependentUpon>frmMakeSQL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRename.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRename.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRevoke.resx">
+      <DependentUpon>frmRevoke.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRevokeS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRevokeS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelection.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSub.resx">
+      <DependentUpon>frmSub.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwitchAccess.resx">
+      <DependentUpon>frmSwitchAccess.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwitchMain.resx">
+      <DependentUpon>frmSwitchMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwitchMySQL.resx">
+      <DependentUpon>frmSwitchMySQL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwitchOracle.resx">
+      <DependentUpon>frmSwitchOracle.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSwitchSQL.resx">
+      <DependentUpon>frmSwitchSQL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mForm1.resx">
+      <DependentUpon>mForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmAgg.resx">
+      <DependentUpon>mfrmAgg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmAlterTable.resx">
+      <DependentUpon>mfrmAlterTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmConnect.resx">
+      <DependentUpon>mfrmConnect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmCreateTable.resx">
+      <DependentUpon>mfrmCreateTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmCreateView.resx">
+      <DependentUpon>mfrmCreateView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmDropTable.resx">
+      <DependentUpon>mfrmDropTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmDropView.resx">
+      <DependentUpon>mfrmDropView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmJoins.resx">
+      <DependentUpon>mfrmJoins.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmSplash.resx">
+      <DependentUpon>mfrmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mfrmSub.resx">
+      <DependentUpon>mfrmSub.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
